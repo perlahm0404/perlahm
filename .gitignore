@@ -1,0 +1,32 @@
+# Server directories
+logs/
+mail/
+ssl/
+tmp/
+etc/
+public_ftp/
+lscache/
+
+# Server files
+.ftpquota
+error_log
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
