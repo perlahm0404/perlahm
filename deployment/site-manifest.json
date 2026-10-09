@@ -1,0 +1,212 @@
+{
+  "schema": "perlahm-static-release-v1",
+  "release_date": "2026-10-09",
+  "file_count": 34,
+  "total_bytes": 4632783,
+  "files": [
+    {
+      "path": "assets/about-image-C8NQvFKQ.jpg",
+      "bytes": 78538,
+      "sha256": "123eadeb54df62773d363f2328a917507803cb14d5858d61149b11f0b1568124",
+      "new_generated_image": false
+    },
+    {
+      "path": "assets/consulting-leadership-hero-Csgssy_x.jpg",
+      "bytes": 165585,
+      "sha256": "f945a94dde8e9aa08b0443fd4c604d628be8d29d6967ff09cde8d65d9c633e76",
+      "new_generated_image": false
+    },
+    {
+      "path": "assets/contact-hero-BExvsKjm.jpg",
+      "bytes": 154325,
+      "sha256": "da5a0a35373569b30581242baa347639a353b251ddf770446e317d7a30072f72",
+      "new_generated_image": false
+    },
+    {
+      "path": "assets/data-ai-hero-CAdz2aFN.jpg",
+      "bytes": 123002,
+      "sha256": "fb6eb5ab886359ea992fa921b88f6f61141e0eccffc70af646ef0f8cb2031c77",
+      "new_generated_image": false
+    },
+    {
+      "path": "assets/delivery-execution-hero-CumSJcNg.jpg",
+      "bytes": 164115,
+      "sha256": "d3445877e4adbeb60a63e4d56ddac37e86bb9777060e85d7310e14b461ac22b9",
+      "new_generated_image": false
+    },
+    {
+      "path": "assets/hero-bg-diverse-C8TJ-Im6.jpg",
+      "bytes": 171915,
+      "sha256": "c8f3e88036a5c0b91f720be94d41c92c5cfcb35c8117905c58d51d87cfd54b6f",
+      "new_generated_image": false
+    },
+    {
+      "path": "assets/innovation-change-hero-BzCPuxE_.jpg",
+      "bytes": 131077,
+      "sha256": "dcbf6bcb3bdbf0ec4ec346054755d2e81de8c91d110dba5726af20cbcc604360",
+      "new_generated_image": false
+    },
+    {
+      "path": "assets/leaders-culture-hero-JHsgJ4-a.jpg",
+      "bytes": 170205,
+      "sha256": "45eab41e8619564f506711951e65bb336d1323cd3e0dbca6991a93db47118e06",
+      "new_generated_image": false
+    },
+    {
+      "path": "assets/main-CQ_HgbMa.css",
+      "bytes": 77657,
+      "sha256": "7b9b00a587674c177e64a6156344a46de9479c99728fba2d6f4080ffb7767675",
+      "new_generated_image": false
+    },
+    {
+      "path": "assets/main-launch-c1d79a1aaabf.js",
+      "bytes": 812872,
+      "sha256": "c1d79a1aaabf289a01d4e3fc8d6bbd4bcd3d4e53bc4cc6fba3d3c4f0de3b699d",
+      "new_generated_image": false
+    },
+    {
+      "path": "assets/perla-android-192.png",
+      "bytes": 11777,
+      "sha256": "d26cb6a6f3d80b51b55b9c499214ab129ee525072f4794d79fd96d42f6a6fa91",
+      "new_generated_image": false
+    },
+    {
+      "path": "assets/perla-android-512.png",
+      "bytes": 11777,
+      "sha256": "d26cb6a6f3d80b51b55b9c499214ab129ee525072f4794d79fd96d42f6a6fa91",
+      "new_generated_image": false
+    },
+    {
+      "path": "assets/perla-apple-180.png",
+      "bytes": 11777,
+      "sha256": "d26cb6a6f3d80b51b55b9c499214ab129ee525072f4794d79fd96d42f6a6fa91",
+      "new_generated_image": false
+    },
+    {
+      "path": "assets/perla-favicon-16.png",
+      "bytes": 11777,
+      "sha256": "d26cb6a6f3d80b51b55b9c499214ab129ee525072f4794d79fd96d42f6a6fa91",
+      "new_generated_image": false
+    },
+    {
+      "path": "assets/perla-favicon-32.png",
+      "bytes": 11777,
+      "sha256": "d26cb6a6f3d80b51b55b9c499214ab129ee525072f4794d79fd96d42f6a6fa91",
+      "new_generated_image": false
+    },
+    {
+      "path": "assets/perla-logo.png",
+      "bytes": 11777,
+      "sha256": "d26cb6a6f3d80b51b55b9c499214ab129ee525072f4794d79fd96d42f6a6fa91",
+      "new_generated_image": false
+    },
+    {
+      "path": "assets/perla-mark.png",
+      "bytes": 11777,
+      "sha256": "d26cb6a6f3d80b51b55b9c499214ab129ee525072f4794d79fd96d42f6a6fa91",
+      "new_generated_image": false
+    },
+    {
+      "path": "assets/perla-social.png",
+      "bytes": 11777,
+      "sha256": "d26cb6a6f3d80b51b55b9c499214ab129ee525072f4794d79fd96d42f6a6fa91",
+      "new_generated_image": false
+    },
+    {
+      "path": "assets/sustainable-growth-hero-BQuHwcc3.jpg",
+      "bytes": 116115,
+      "sha256": "a244019f8ad27bf0fa79b425fce2be21f7612aa91fcb62516741ef5e4632dece",
+      "new_generated_image": false
+    },
+    {
+      "path": "assets/transforming-care-hero-BFsf8-nZ.jpg",
+      "bytes": 96313,
+      "sha256": "3e1f71ca35defd3660ddf601ed97a1ed1e0ff246204441c479aaf202f822a038",
+      "new_generated_image": false
+    },
+    {
+      "path": "favicon.ico",
+      "bytes": 7645,
+      "sha256": "29a40d56580a5366083461297773dbf146ec043d1156f432f5472cb3487f506b",
+      "new_generated_image": false
+    },
+    {
+      "path": "images/insights/burnout-design.jpg",
+      "bytes": 246176,
+      "sha256": "bb6b316be900d9635b3f1b7ae149a3d0a6569517360b103059608a836eb15773",
+      "new_generated_image": true
+    },
+    {
+      "path": "images/insights/care-without-walls.jpg",
+      "bytes": 249228,
+      "sha256": "27969861afb2a27452101ba2cd5f75b7c48e41ce481776a7010cbc5aba358337",
+      "new_generated_image": true
+    },
+    {
+      "path": "images/insights/data-transformation.jpg",
+      "bytes": 235733,
+      "sha256": "d5867c00d4bfe0572b1ceb024b48546475151d1290eb4f4ded5e1b3c5885ae2d",
+      "new_generated_image": true
+    },
+    {
+      "path": "images/insights/finance-models.jpg",
+      "bytes": 240292,
+      "sha256": "e7a7f4083d06e70de36e8763d1f1e26caca89a59828f11a747cc2773586cdd9b",
+      "new_generated_image": true
+    },
+    {
+      "path": "images/insights/human-ai.jpg",
+      "bytes": 229903,
+      "sha256": "2e9303fd61f9dc8e0f13ac4e585c950a05fd0c18c2d4153ad2f5993225c0a255",
+      "new_generated_image": true
+    },
+    {
+      "path": "images/insights/inefficiency.jpg",
+      "bytes": 252156,
+      "sha256": "28ac437de342ca16b605128a342c38685bea4bbbbb55bd19a1e138930509a98d",
+      "new_generated_image": true
+    },
+    {
+      "path": "images/insights/integrated-delivery.jpg",
+      "bytes": 264413,
+      "sha256": "64dfa47b2596cbf5af81890ef460ac11b9830d15114c733c3a2c8115c7befa0e",
+      "new_generated_image": true
+    },
+    {
+      "path": "images/insights/next-gen-system.jpg",
+      "bytes": 285138,
+      "sha256": "8c768ab2112ad8e7c378f79bb3328a803317aeced522d369558cee4798bfc3db",
+      "new_generated_image": true
+    },
+    {
+      "path": "images/insights/work-redesign.jpg",
+      "bytes": 260223,
+      "sha256": "14480a3a7343df624938bfaaffb9e2ec70b630782d7dd59bc5bff78b2ac52970",
+      "new_generated_image": true
+    },
+    {
+      "path": "index.html",
+      "bytes": 2154,
+      "sha256": "cb31594cc6ce1ff269f308da89c830d429fcdc45e35535285944db211727d4c0",
+      "new_generated_image": false
+    },
+    {
+      "path": "placeholder.svg",
+      "bytes": 3253,
+      "sha256": "64badf7aabda0b9630b87020ffb6095cb858ccbcf66b355c2aa08b1063954d3b",
+      "new_generated_image": false
+    },
+    {
+      "path": "robots.txt",
+      "bytes": 160,
+      "sha256": "a3d27b3ca5ce32341fa9f96f01169b521b1657c05d1860c45d1e53a6258e9e8b",
+      "new_generated_image": false
+    },
+    {
+      "path": "site.webmanifest",
+      "bytes": 374,
+      "sha256": "0c59ef52f0dfd880816cbd6bcafb419a22f99cfddcda95eaeb177ffda49c4911",
+      "new_generated_image": false
+    }
+  ]
+}

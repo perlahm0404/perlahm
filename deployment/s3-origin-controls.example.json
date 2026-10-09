@@ -1,0 +1,30 @@
+{
+  "PublicAccessBlockConfiguration": {
+    "BlockPublicAcls": true,
+    "IgnorePublicAcls": true,
+    "BlockPublicPolicy": true,
+    "RestrictPublicBuckets": true
+  },
+  "OwnershipControls": {
+    "Rules": [
+      {
+        "ObjectOwnership": "BucketOwnerEnforced"
+      }
+    ]
+  },
+  "ServerSideEncryptionConfiguration": {
+    "Rules": [
+      {
+        "ApplyServerSideEncryptionByDefault": {
+          "SSEAlgorithm": "AES256"
+        }
+      }
+    ]
+  },
+  "OriginAccessControlConfig": {
+    "Name": "${OAC_NAME}",
+    "OriginAccessControlOriginType": "s3",
+    "SigningBehavior": "always",
+    "SigningProtocol": "sigv4"
+  }
+}
